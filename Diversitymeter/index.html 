@@ -12,7 +12,7 @@
 
    
   <meta property="og:url" content="127.0.0.1:5000/index.html" />
-  <meta property="og:title" content="Diversity" />
+  <meta property="og:title" content="Diversitymeter" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="" />
   <meta property="og:description" content="" />
@@ -28,10 +28,6 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-
-  
-  
-  
 </head>
 <body class="page-index">
 
@@ -46,7 +42,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="./">Diversity at UNL</a>
+      <a class="navbar-brand" href="./">Diversitymeter</a>
     </div>
 
     
@@ -56,7 +52,7 @@
 <div class="container">
   <h1>How diverse are UNL's graduates?</h1>
   <p>The University of Nebraska-Lincoln hands out thousands of degrees every year. But how diverse are the people getting these degrees? As it turns out, they're not very diverse at all. Let's look at the 2011-2012 school year.</p>
-  <img src="Enrollment-at-UNL-Students_chartbuilder.png" style="padding-bottom:20px;" width="100%"/>
+  <img src="totaldegrees.png" style="padding-bottom:20px;" width="100%"/>
 	  <div class="table-responsive">
 	    <table class="table table-striped">
 	      <thead>
@@ -122,7 +118,6 @@
     <h3>And it's been this way for a while</h3>
 	<p>Ten years ago, UNL was handing degrees to a similar group of people lacking diversity. Look at the 2002-2003 school year.</p>
     <img src="Total-degrees-2002-2003-bachelor-s-master-s-doctorate_chartbuilder.png" width="100%" style="padding-bottom:20px;">
-<img src="Total-degrees-granted-2002-2003-total_chartbuilder.png" width="100%" style="padding-bottom:20px;">
     <div class="table-responsive">
 	    <table class="table table-striped">
 	      <thead>
@@ -185,6 +180,9 @@
 	  </table>
 	  </div>
   </div>
+  <h3>What about gender?</h3>
+  <p>Women at UNL now get more degrees than men, but both groups have remained fairly equally represented.</p>
+  <img src="Degrees-by-gender-2002-2003-bachelor-s-master-s-doctorate_chartbuilder.png" style="padding-bottom:20px;" width="100%"/> <img src="genderdegrees.png" style="padding-bottom:20px;" width="100%"/>
  
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/js/bootstrap.min.js"></script>
