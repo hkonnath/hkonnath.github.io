@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Diversity at UNL</title>
+  <link rel="shortcut icon" href="/favicon.ico" />
+
+  
+  <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.0.2/css/font-awesome.min.css" />
+  <link rel="stylesheet" type="text/css" href="base.css" />
+  
+
+   
+  <meta property="og:url" content="127.0.0.1:5000/index.html" />
+  <meta property="og:title" content="Diversity" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="" />
+  <meta property="og:description" content="" />
+  
+
+  
+  <!--[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  
+
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+
+  
+  
+  
+</head>
+<body class="page-index">
+
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="./">Diversity at UNL</a>
+    </div>
+
+    
+  </div>
+</nav>
+
+<div class="container">
+  <h1>How diverse are UNL's graduates?</h1>
+  <p>The University of Nebraska-Lincoln hands out thousands of degrees every year. But how diverse are the people getting these degrees? As it turns out, they're not very diverse at all. Let's look at the 2011-2012 school year.</p>
+  <img src="totaldegrees.png" style="padding-bottom:20px;" width="100%"/>
+	  <div class="table-responsive">
+	    <table class="table table-striped">
+	      <thead>
+	        <tr>
+	          <th>Race</th>
+	          <th>Total degrees awarded</th>
+	          <th>Undergraduate degrees</th>
+	          <th>Master's degrees</th>
+	          <th>Doctorate degrees</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+
+	        <tr>
+	          <td>Black</td>
+	          <td>109</td>
+	          <td>78</td>
+	          <td>24</td>
+	          <td>7</td>
+
+	        </tr>
+
+	        <tr>
+	          <td>Native American</td>
+	          <td>13</td>
+	          <td>8</td>
+	          <td>4</td>
+	          <td>1</td>
+
+	        </tr>
+
+	        <tr>
+	          <td>Asian</td>
+	          <td>96</td>
+	          <td>68</td>
+	          <td>16</td>
+	          <td>12</td>
+
+	        </tr>
+
+	        <tr>
+	          <td>Hispanic</td>
+	          <td>159</td>
+	          <td>136</td>
+	          <td>20</td>
+	          <td>3</td>
+
+	        </tr>
+
+	        <tr>
+	          <td>White</td>
+	          <td>3916</td>
+	          <td>3112</td>
+	          <td>676</td>
+	          <td>128</td>
+
+	        </tr>
+
+	    </tbody>
+	  </table>
+	  </div>
+
+    <h3>And it's been this way for a while</h3>
+	<p>Ten years ago, UNL was handing degrees to a similar group of people lacking diversity. Look at the 2002-2003 school year.</p>
+    <img src="Total-degrees-2002-2003-bachelor-s-master-s-doctorate_chartbuilder.png" width="100%" style="padding-bottom:20px;">
+    <div class="table-responsive">
+	    <table class="table table-striped">
+	      <thead>
+	        <tr>
+	          <th>Race</th>
+	          <th>Total degrees awarded</th>
+	          <th>Undergraduate degrees</th>
+	          <th>Master's degrees</th>
+	          <th>Doctorate degrees</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+
+	        <tr>
+	          <td>Black</td>
+	          <td>92</td>
+	          <td>57</td>
+	          <td>25</td>
+	          <td>12</td>
+
+	        </tr>
+
+	        <tr>
+	          <td>Native American</td>
+	          <td>15</td>
+	          <td>8</td>
+	          <td>6</td>
+	          <td>1</td>
+
+	        </tr>
+
+	        <tr>
+	          <td>Asian</td>
+	          <td>230</td>
+	          <td>71</td>
+	          <td>112</td>
+	          <td>47</td>
+
+	        </tr>
+
+	        <tr>
+	          <td>Hispanic</td>
+	          <td>68</td>
+	          <td>38</td>
+	          <td>19</td>
+	          <td>11</td>
+
+	        </tr>
+
+	        <tr>
+	          <td>White</td>
+	          <td>3610</td>
+	          <td>2981</td>
+	          <td>782</td>
+	          <td>254</td>
+
+	        </tr>
+
+	    </tbody>
+	  </table>
+	  </div>
+  </div>
+  <h3>What about gender?</h3>
+  <p>Women at UNL now get more degrees than men, but both groups have remained fairly equally represented.</p>
+  <img src="Degrees-by-gender-2002-2003-bachelor-s-master-s-doctorate_chartbuilder.png" style="padding-bottom:20px;" width="100%"/> <img src="genderdegrees.png" style="padding-bottom:20px;" width="100%"/>
+ 
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
+
+</body>
+</html>
