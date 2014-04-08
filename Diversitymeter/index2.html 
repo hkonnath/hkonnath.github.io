@@ -12,7 +12,7 @@
 
    
   <meta property="og:url" content="127.0.0.1:5000/index.html" />
-  <meta property="og:title" content="Diversity" />
+  <meta property="og:title" content="Diversitymeter" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="" />
   <meta property="og:description" content="" />
@@ -28,10 +28,6 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-
-  
-  
-  
 </head>
 <body class="page-index">
 
@@ -46,7 +42,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="./">Diversity at UNL</a>
+      <a class="navbar-brand" href="./">Diversitymeter</a>
     </div>
 
     
